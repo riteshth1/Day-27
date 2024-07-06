@@ -74,21 +74,4 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-    }
-    h1, h2, h3 {
-        color: #333;
-    }
-    pre {
-        background: #f4f4f4;
-        padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 5px;
-    }
-    code {
-        font-family: monospace;
-    }
-</style>
+
